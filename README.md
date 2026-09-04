@@ -31,7 +31,7 @@ added after the wait call is ignored.
 | `num_cores.c`     | Prints the number of physical cores on the machine.                  |
 | `dispatchQueue.h` | Type definitions for tasks and dispatch queues.                      |
 | `dispatchQueue.c` | Implementation of the dispatch queue / thread pool library.          |
-| `A2Answers.pdf`   | Task reflection.  |
+| `Full_Report.pdf`   | Task reflection.  |
 
 ## Public API (`dispatchQueue.h` / `dispatchQueue.c`)
 
@@ -164,7 +164,7 @@ difference is how many workers are consuming from it.
 
 The full written report — including detailed explanations and annotated
 code snippets for how dispatching works — is available in
-[`docs/Full_Report.pdf`](docs/A2Answers (2).pdf).
+[`docs/Full_Report.pdf`](docs/A2.pdf).
 
 ## Notes
 
