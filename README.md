@@ -1,7 +1,5 @@
 # Thread Pools and Dispatch Queues
 
-SOFTENG 370 — Operating Systems, Assignment 2
-
 ## Description
 
 This project implements a small subset of a dispatch-queue-based thread pool
@@ -33,7 +31,7 @@ added after the wait call is ignored.
 | `num_cores.c`     | Prints the number of physical cores on the machine.                  |
 | `dispatchQueue.h` | Type definitions for tasks and dispatch queues.                      |
 | `dispatchQueue.c` | Implementation of the dispatch queue / thread pool library.          |
-| `A2Answers.pdf`   | Written answers to the assignment questions (not part of the code).  |
+| `A2Answers.pdf`   | Task reflection.  |
 
 ## Public API (`dispatchQueue.h` / `dispatchQueue.c`)
 
